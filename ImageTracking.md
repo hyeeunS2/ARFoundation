@@ -1,4 +1,9 @@
-![1](https://github.com/user-attachments/assets/b302c855-019d-4b8d-aad8-3729fc194293)
 ![2](https://github.com/user-attachments/assets/734ba557-c8d9-40a2-ad1d-37b81d7ad313)
 
-강좌: https://www.youtube.com/watch?v=KHhxgGTDHms&list=PLATff1khpIscTMN2KXxagrTkBCwdzOeol&index=7
+AR Tracked Image Manager와 Reference Image Library를 활용하여 이미지를 감지하여 3D 오브젝트를 등장시킬 수 있다.  
+C# 스크립트를 이용하면 다중 이미지 기능도 구현할 수 있다.
+
+
+[강좌]
+https://www.youtube.com/watch?v=KHhxgGTDHms&list=PLATff1khpIscTMN2KXxagrTkBCwdzOeol&index=7
+https://www.youtube.com/watch?v=JaxT9pDxfBs&list=PLATff1khpIscTMN2KXxagrTkBCwdzOeol&index=8
